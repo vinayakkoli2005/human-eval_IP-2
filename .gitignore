@@ -1,0 +1,6 @@
+# ===============================
+# Ignore OpenAI HumanEval package
+# ===============================
+human_eval/
+human_eval/**
+human_eval.egg-info/
